@@ -82,7 +82,7 @@
   .card-price {
     font-size: 16px;
     color: var(--cor-secundaria-3);
-    margin-left: auto; /* Adicionado para alinhar à direita */
+    margin-left: auto;
   }
   
   .detalhes {
